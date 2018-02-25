@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_small_x">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_regular">14sp</dimen>
+    <dimen name="text_size_regular_x">15sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="card_padding_quarter">4dp</dimen>
+    <dimen name="upper_bar_height">60dp</dimen>
+    <dimen name="card_padding_half">8dp</dimen>
+    <dimen name="progress_bar">24dp</dimen>
+    <dimen name="border_height">1dp</dimen>
+</resources>

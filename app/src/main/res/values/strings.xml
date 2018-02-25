@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkyScannerApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internet_not_available">Internet connection is not available, Please try after sometime.</string>
+    <string name="pricing_error">There seems to be a problem.</string>
+    <string name="sort"><![CDATA[SORT & FILTER]]></string>
+    <string name="results">%1$d of %2$d results</string>
+</resources>

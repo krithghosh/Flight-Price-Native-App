@@ -11,4 +11,7 @@
     <dimen name="card_padding_half">8dp</dimen>
     <dimen name="progress_bar">24dp</dimen>
     <dimen name="border_height">1dp</dimen>
+    <dimen name="carrier_size">32dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
 </resources>

@@ -44,7 +44,7 @@ public class HomeActivity extends BaseActivity implements PricingFragment.Pricin
         setupToolbar(toolbar);
         fragmentManager = setFragmentManager();
         setupToastAndProgressBar(progressBar);
-        updateActionBar("EDI- LOND", "05 Mar – 06 Mar, 1 adult, economy");
+        updateActionBar(getString(R.string.title), getString(R.string.subTitle));
         setupFragment();
     }
 

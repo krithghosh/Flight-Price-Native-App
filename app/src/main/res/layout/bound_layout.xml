@@ -3,16 +3,16 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    android:paddingBottom="8dp"
-    android:paddingLeft="16dp"
-    android:paddingRight="16dp"
-    android:paddingTop="8dp"
+    android:paddingBottom="@dimen/card_padding_half"
+    android:paddingLeft="@dimen/card_padding"
+    android:paddingRight="@dimen/card_padding"
+    android:paddingTop="@dimen/card_padding_half"
     android:weightSum="1">
 
     <ImageView
         android:id="@+id/iv_carrier"
-        android:layout_width="32dp"
-        android:layout_height="32dp"
+        android:layout_width="@dimen/carrier_size"
+        android:layout_height="@dimen/carrier_size"
         android:layout_gravity="center_vertical" />
 
     <LinearLayout
